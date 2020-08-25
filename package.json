@@ -1,0 +1,16 @@
+{
+  "name": "fp-exercises",
+  "version": "1.0.0",
+  "main": "compose.ts",
+  "repository": "https://github.com/xDeaa/fp-exercises.git",
+  "author": "xDeaa <andrea_christina@hotmail.fr>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn nodemon"
+  },
+  "devDependencies": { 
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2",
+    "nodemon": "^2.0.3"
+  }
+}
